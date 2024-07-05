@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm CSE Student In My Final Year<br>🧑‍💻MERN Stack Developer<br>🧐Currently Learning Nextjs 14<br>⚒️Open For Work (Full stack Dev)<br>🌆From Bangalore India
+🔭 I'm CSE Student In My Final Year<br>🧑‍💻MERN Stack Developer<br>🧐Currently Learning Nextjs 14<br>⚒️Open For Work (Full stack Dev)<br>🌆From Bangalore India<br> My Portfolio https://shahnoor.netlify.app/
 
 # 📊 GitHub Stats:
 
