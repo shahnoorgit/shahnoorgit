@@ -8,10 +8,10 @@
 
 ## 💫 About Me
 
-I am a visionary **Fullstack & Cross-Platform Developer** with a relentless passion for crafting innovative, high-performance digital experiences. I harness modern technologies to build seamless, scalable solutions that push the boundaries of what's possible. My approach, which I call **syplogy**, blends creativity and technology to deliver transformative results.
+I am a visionary **Fullstack & Cross-Platform Developer** with a relentless passion for crafting innovative, high-performance digital experiences. I harness modern technologies to build seamless, scalable solutions that push the boundaries of what's possible. As an all-rounder, I excel in developing applications across mobile, web, and cloud platforms.
 
 - 🔭 **Expertise**: Architecting robust fullstack systems, pioneering cross-platform applications, and integrating advanced cloud solutions.
-- 🧑‍💻 **Tech Mastery**: Proficient in MERN, Next.js, React, Node.js, Express, MongoDB, PostgreSQL, TypeScript, AWS, and more.
+- 🧑‍💻 **Tech Mastery**: Proficient in MERN, Next.js, React, **React Native**, Node.js, Express, MongoDB, PostgreSQL, TypeScript, AWS, and more.
 - 🌱 **Continuous Innovation**: Always exploring, learning, and evolving with cutting-edge technologies.
 - 📍 **Location**: Bangalore, India
 - 💼 **Collaborations**: Open to disruptive projects and meaningful partnerships.
