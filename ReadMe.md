@@ -30,22 +30,6 @@ I'm a **Professional Fullstack & Cross-Platform Developer** with deep expertise 
 
 ---
 
-## ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
-</p>
-
----
-
-## 😂 Random Dev Meme
-
-<p align="center">
-  <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" style="max-height: 400px;"/>
-</p>
-
----
-
 ## 🚀 Tech Stack & Tools
 
 <p align="center">
