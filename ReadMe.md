@@ -33,15 +33,32 @@ I'm a **Professional Fullstack & Cross-Platform Developer** with deep expertise 
 ## 🚀 Tech Stack & Tools
 
 <p align="center">
+  <!-- React -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  
+  <!-- NestJS -->
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  
+  <!-- Node.js -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  
+  <!-- Express.js -->
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
+  
+  <!-- MongoDB -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  
+  <!-- Next.js -->
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-native-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  
+  <!-- React Native -->
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=reactnative&logoColor=white" alt="React Native"/>
+  
+  <!-- Go (Golang) -->
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 ---
