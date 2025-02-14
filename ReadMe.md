@@ -38,6 +38,7 @@ I'm a **Professional Fullstack & Cross-Platform Developer** with deep expertise 
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+   <img src="https://img.shields.io/badge/React-native-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 </p>
 
 ---
