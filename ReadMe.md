@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My GitHub Profile</h1>
+<h1 align="center">Welcome to My GitHub Universe</h1>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Shahnoorgit" alt="Visitor Badge"/>
@@ -8,13 +8,13 @@
 
 ## 💫 About Me
 
-I'm a **Professional Fullstack & Cross-Platform Developer** with deep expertise in modern development stacks. I build robust, scalable applications using the latest technologies and practice what I call **syplogy** – the art of harmonizing creativity and technology to craft elegant solutions.
+I am a visionary **Fullstack & Cross-Platform Developer** with a relentless passion for crafting innovative, high-performance digital experiences. I harness modern technologies to build seamless, scalable solutions that push the boundaries of what's possible. My approach, which I call **syplogy**, blends creativity and technology to deliver transformative results.
 
-- 🔭 **Expertise**: Fullstack Development, Cross-Platform Solutions, Cloud Integrations  
-- 🧑‍💻 **Tech Stack**: MERN, Next.js, React, Node.js, Express, MongoDB, and more  
-- 🌱 **Always Evolving**: Constantly exploring and mastering cutting-edge technologies  
-- 📍 **Location**: Bangalore, India  
-- 💼 **Opportunities**: Open for exciting projects and collaborations
+- 🔭 **Expertise**: Architecting robust fullstack systems, pioneering cross-platform applications, and integrating advanced cloud solutions.
+- 🧑‍💻 **Tech Mastery**: Proficient in MERN, Next.js, React, Node.js, Express, MongoDB, PostgreSQL, TypeScript, AWS, and more.
+- 🌱 **Continuous Innovation**: Always exploring, learning, and evolving with cutting-edge technologies.
+- 📍 **Location**: Bangalore, India
+- 💼 **Collaborations**: Open to disruptive projects and meaningful partnerships.
 
 [Explore My Portfolio](https://shahnoor.netlify.app/)
 
@@ -48,11 +48,20 @@ I'm a **Professional Fullstack & Cross-Platform Developer** with deep expertise 
   <!-- MongoDB -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   
+  <!-- PostgreSQL -->
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  
   <!-- Next.js -->
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   
   <!-- React Native -->
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=reactnative&logoColor=white" alt="React Native"/>
+  
+  <!-- TypeScript -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  
+  <!-- AWS -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   
   <!-- Go (Golang) -->
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
