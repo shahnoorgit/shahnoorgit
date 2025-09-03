@@ -43,15 +43,15 @@ I'm a Full-Stack and Cross-Platform Developer from Bangalore, India, passionate 
   </tr>
 </table>
 
-## 📊 Contribution Graph
+## 📊 Contribution Graph (classic green squares)
 
 <p align="center">
-  <!-- Option 1: GitHub Readme Activity Graph (customizable, heatmap-like) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahnoorgit&theme=react-dark&hide_border=true&area=true" alt="Shahnoor's Contribution Graph" />
-
-  <!-- Option 2: Classic GitHub green-squares calendar (renders your actual GitHub profile contributions) -->
+  <!-- Classic GitHub green-squares calendar (clickable to open profile) -->
+  <a href="https://github.com/Shahnoorgit" target="_blank" rel="noopener noreferrer">
+    <img src="https://ghchart.rshah.org/Shahnoorgit" alt="Shahnoor's GitHub Calendar (green squares)" />
+  </a>
   <br>
-  <img src="https://ghchart.rshah.org/Shahnoorgit" alt="Shahnoor's GitHub Calendar (green squares)" />
+  <sub><em>Classic GitHub contribution calendar — shows daily contributions (green squares).</em></sub>
 </p>
 
 ---
