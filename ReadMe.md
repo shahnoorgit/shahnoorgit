@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shahnoor 👋</h1>
+<h1 align="center">Hi, Shahnoor Here 👋</h1>
 <h3 align="center">Full-Stack & Cross-Platform Developer | Cloud Architect</h3>
 
 <p align="center">
@@ -43,15 +43,22 @@ I'm a Full-Stack and Cross-Platform Developer from Bangalore, India, passionate 
   </tr>
 </table>
 
-## 📊 Contribution Graph (classic green squares)
+## 📊 Contribution Graph (classic green squares, black background)
 
 <p align="center">
-  <!-- Classic GitHub green-squares calendar (clickable to open profile) -->
+  <!-- Black background wrapper so ghchart's transparent empty squares appear black -->
   <a href="https://github.com/Shahnoorgit" target="_blank" rel="noopener noreferrer">
-    <img src="https://ghchart.rshah.org/Shahnoorgit" alt="Shahnoor's GitHub Calendar (green squares)" />
+    <table cellspacing="0" cellpadding="8" bgcolor="#000000" align="center">
+      <tr>
+        <td bgcolor="#000000" align="center">
+          <!-- GHChart with base green color (hex 16a34a). Change hex to tweak green shade. -->
+          <img src="https://ghchart.rshah.org/16a34a/Shahnoorgit" alt="Shahnoor's GitHub Calendar (green on black)" />
+        </td>
+      </tr>
+    </table>
   </a>
   <br>
-  <sub><em>Classic GitHub contribution calendar — shows daily contributions (green squares).</em></sub>
+  <sub><em>Classic GitHub contribution calendar — green squares on black background.</em></sub>
 </p>
 
 ---
