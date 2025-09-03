@@ -12,10 +12,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shahnoorgit" alt="Visitor Badge"/>
-</p>
-
 I'm a Full-Stack and Cross-Platform Developer from Bangalore, India, passionate about building high-performance, scalable digital experiences. I thrive on architecting seamless solutions across web, mobile, and the cloud, turning complex challenges into elegant, functional products.
 
 - 🔭 I’m currently architecting robust full-stack systems and pioneering cross-platform applications.
@@ -51,6 +47,17 @@ I'm a Full-Stack and Cross-Platform Developer from Bangalore, India, passionate 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahnoorgit&theme=vue-dark&hide_border=true" alt="Shahnoor's GitHub Streak" />
+</p>
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <!-- Option 1: GitHub Readme Activity Graph (customizable, heatmap-like) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahnoorgit&theme=react-dark&hide_border=true&area=true" alt="Shahnoor's Contribution Graph" />
+
+  <!-- Option 2: Classic GitHub green-squares calendar (renders your actual GitHub profile contributions) -->
+  <br>
+  <img src="https://ghchart.rshah.org/Shahnoorgit" alt="Shahnoor's GitHub Calendar (green squares)" />
 </p>
 
 ---
