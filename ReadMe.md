@@ -43,26 +43,6 @@ I'm a Full-Stack and Cross-Platform Developer from Bangalore, India, passionate 
   </tr>
 </table>
 
-## 📊 Contribution Graph (classic green squares, black background)
-
-<p align="center">
-  <!-- Black background wrapper so ghchart's transparent empty squares appear black -->
-  <a href="https://github.com/Shahnoorgit" target="_blank" rel="noopener noreferrer">
-    <table cellspacing="0" cellpadding="8" bgcolor="#000000" align="center">
-      <tr>
-        <td bgcolor="#000000" align="center">
-          <!-- GHChart with base green color (hex 16a34a). Change hex to tweak green shade. -->
-          <img src="https://ghchart.rshah.org/16a34a/Shahnoorgit" alt="Shahnoor's GitHub Calendar (green on black)" />
-        </td>
-      </tr>
-    </table>
-  </a>
-  <br>
-  <sub><em>Classic GitHub contribution calendar — green squares on black background.</em></sub>
-</p>
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
