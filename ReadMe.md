@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shahnoorgit" alt="Visitor Badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shahnoorgit" alt="Visitor Badge"/>
 </p>
 
 I'm a Full-Stack and Cross-Platform Developer from Bangalore, India, passionate about building high-performance, scalable digital experiences. I thrive on architecting seamless solutions across web, mobile, and the cloud, turning complex challenges into elegant, functional products.
