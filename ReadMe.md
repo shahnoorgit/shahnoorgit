@@ -5,11 +5,8 @@
   <a href="https://shahnoor.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/shahnoor-mujawar-3960052a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
@@ -45,7 +42,7 @@ I'm a Full-Stack and Cross-Platform Developer from Bangalore, India, passionate 
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
       <br><strong>Cloud & DevOps</strong>
-      <br><small>(AWS, CI/CD, Docker)</small>
+      <br><small>(AWS, GCP, CI/CD)</small>
     </td>
   </tr>
 </table>
@@ -74,30 +71,17 @@ I'm a Full-Stack and Cross-Platform Developer from Bangalore, India, passionate 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 💰 Support My Work
+
+If you appreciate my work and innovative approach, feel free to support me:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahnoorgit&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahnoorgit&theme=dark&hide_border=true" alt="Streak Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahnoorgit&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</p>
-
----
-
-## ☕ Support My Work
-
-If you find my work valuable, consider supporting me.
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
-  </a>
   <a href="https://paypal.me/Shahnoormujawar@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Support via PayPal"/>
   </a>
