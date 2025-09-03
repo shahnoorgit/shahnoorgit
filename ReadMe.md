@@ -43,12 +43,6 @@ I'm a Full-Stack and Cross-Platform Developer from Bangalore, India, passionate 
   </tr>
 </table>
 
-## 🔥 My Daily Contributions
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahnoorgit&theme=vue-dark&hide_border=true" alt="Shahnoor's GitHub Streak" />
-</p>
-
 ## 📊 Contribution Graph
 
 <p align="center">
