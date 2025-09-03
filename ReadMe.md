@@ -47,6 +47,11 @@ I'm a Full-Stack and Cross-Platform Developer from Bangalore, India, passionate 
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahnoorgit&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Shahnoor's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahnoorgit&theme=vue-dark&hide_border=true" alt="Shahnoor's GitHub Streak" />
+</p>
+
 ---
 
 ## 🛠️ Tech Stack & Tools
